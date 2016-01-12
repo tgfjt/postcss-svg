@@ -1,6 +1,6 @@
 {
-  "name": "postcss-svg",
-  "version": "1.0.4",
+  "name": "@tgfjt/postcss-svg",
+  "version": "1.0.5",
   "description": "Postcss plugin for insert inline SVG to CSS",
   "main": "dist/index.js",
   "repository": {
@@ -32,7 +32,7 @@
     "lodash": "^3.10.1",
     "postcss": "^5.0.10",
     "svgo": "^0.5.6",
-    "xmldom": "^0.1.19"
+    "xmldom": "0.1.19"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",
